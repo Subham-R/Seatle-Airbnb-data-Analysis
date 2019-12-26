@@ -31,7 +31,7 @@ There is notebook available here to showcase work related to the above questions
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@subham.ronghe/how-does-the-home-stays-listings-are-priced-by-the-airbnb-f5d3eec3701d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
