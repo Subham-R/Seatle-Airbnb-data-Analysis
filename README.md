@@ -15,7 +15,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in the Seattle AirBnB homes data to better understand:
 
-1.How does price varies for the listings based on the locality?¶
+1.How does price varies for the listings based on the locality?
 
 2.Which time/month of the year are best in term of price ?
 
@@ -26,7 +26,7 @@ The full set of files related to this Seatle Airbnb data analysis [here](https:/
 
 ## File Descriptions <a name="files"></a>
 
-There are notebook available here to showcase work related to the above questions.  This notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells wre used to assist in walking through the thought process for individual steps.  
+There is notebook available here to showcase work related to the above questions.  This notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells wre used to assist in walking through the thought process for individual steps.  
 
 
 ## Results<a name="results"></a>
